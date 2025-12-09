@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimosthenis Theodosiou</h1>
-<h3 align="center">I am a second year student at the University of Athens studying Computer Science</h3>
+<h3 align="center">I am a third year student at the University of Athens studying Computer Science</h3>
 
 - 🌱 I’m currently learning **the fundamentals of the Python programming language**
 
